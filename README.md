@@ -49,4 +49,4 @@ This project was developed at the University of Florida under Professor Sartaj S
 
 ## Example
 
-An example input file (`example_input.txt`):
+An example input file (`input_test_case_1.txt`):
